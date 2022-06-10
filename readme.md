@@ -37,11 +37,11 @@ go get -u github.com/jwmdev/massa-go
 - [ ] ExecuteSC (execute smart contract)
 - [ ] get_filtered_sc_output_event
 ### Private API (node_ip:33034)
-- [x] stop_node
+- [ ] stop_node
 - [ ] node_sign_message
-- [x] add_staking_private_keys
-- [x] remove_staking_addresses
-- [x] get_staking_addresses
+- [ ] add_staking_private_keys
+- [ ] remove_staking_addresses
+- [ ] get_staking_addresses
 - [ ] ban
 - [ ] unban
 
